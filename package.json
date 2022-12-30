@@ -1,11 +1,11 @@
 {
-  "name": "mercado",
+  "name": "personal_portfolio_mercadolyra",
   "version": "1.0.0",
-  "description": "Thanks for downloading this template!",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "mercadolyra",
+  "author": "Mercado Lyra",
   "license": "ISC"
 }
